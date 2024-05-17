@@ -6,10 +6,10 @@ https://lumos-chatbot.streamlit.app/
 
 ## Features
 ----------------------------
--PDF Upload: Users can upload multiple PDF files.
--Text Extraction: Extracts text from uploaded PDF files.
--Conversational AI: Uses the Gemini conversational AI model to answer user questions.
--Chat Interface: Provides a chat interface to interact with the chatbot.
+- PDF Upload: Users can upload multiple PDF files.
+- Text Extraction: Extracts text from uploaded PDF files.
+- Conversational AI: Uses the Gemini conversational AI model to answer user questions.
+- Chat Interface: Provides a chat interface to interact with the chatbot.
 
 ## Getting Started
 ----------------------------
